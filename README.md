@@ -22,7 +22,7 @@ that use the same name.
 Install with a compatible skills client:
 
 ```sh
-npx skills add Sashank-Singh/agenttwin-agent-tools
+npx skills add AgentTwin/agenttwin-agent-tools
 ```
 
 Review the skills before installing. This does not install the CLI or run application
@@ -42,7 +42,7 @@ client's supported plugin installer; client support varies.
 
 The public MCP at `https://agenttwin.si/mcp/docs` supplies `search_docs` and
 `read_doc`. No credentials are required. It has no customer access or execution.
-The [official MCP Registry entry](https://registry.modelcontextprotocol.io/?q=io.github.Sashank-Singh%2Fagenttwin-docs)
+The [official MCP Registry entry](https://registry.modelcontextprotocol.io/?q=io.github.AgentTwin%2Fagenttwin-docs)
 links to the owned developer page and endpoint.
 
 ## Maintained references
